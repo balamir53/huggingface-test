@@ -1,2 +1,5 @@
 transformers
 datasets
+gradio
+langchain
+torch
